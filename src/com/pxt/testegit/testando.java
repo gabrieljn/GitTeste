@@ -5,5 +5,6 @@ public class testando {
 		System.out.println("TESTANDO GIT");
 		System.out.println("TESTE 2");
 		System.out.println("Teste 3...");
+		System.out.println("Teste 4...");
 	}
 }
